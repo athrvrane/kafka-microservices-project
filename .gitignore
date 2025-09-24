@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Docker system files (optional)
+*.env
+
+# Mac system files (optional)
+.DS_Store
